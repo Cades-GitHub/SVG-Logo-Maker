@@ -2,7 +2,7 @@
 Object Oriented Programming SVG LOGO MAKER
 =======
 Object Oriented Programming SVG LOGO MAKER
->>>>>>> 7ce6702 (mastered)
+>>>>>>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -20,8 +20,7 @@ The application enables users to enter inputs into a inquirer prompt in order to
 - [License](#License)
 <<<<<<< HEAD
 =======
-- [Author](#Author)
->>>>>>> 7ce6702 (mastered)
+>>>>>>>
 - [Acknowledgments](#Acknowledgments)
 
 # Overview
